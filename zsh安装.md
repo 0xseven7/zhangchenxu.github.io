@@ -36,7 +36,7 @@ sh -c "$(wget -O- https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/maste
 
 3. restart or `source .zshrc`
 
-#### 2. zsh-completions  
+#### 2. zsh-completions  ssd
 
 Sdsdssdssdasds
 
