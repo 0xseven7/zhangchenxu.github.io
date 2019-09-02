@@ -38,5 +38,5 @@ sh -c "$(wget -O- https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/maste
 
 #### 2. zsh-completions  ssdsdsdsdsd
 
-Sdsdssdssdasdssadsd
+Sdsdssdssdasdssadsdsdsd
 
